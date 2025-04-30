@@ -1,0 +1,3 @@
+- 👋 
+- 👀 Interessado em Arquitetura e Programação de Sistemas.
+- 🌱 Cursando Cienc da Comp
